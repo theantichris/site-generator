@@ -61,5 +61,5 @@ func main() {
 		c.HTML(http.StatusOK, postTemplate, gin.H{"Title": postTitle, "Content": postContent})
 	})
 
-	r.Run()
+	r.Run(":8080")
 }
