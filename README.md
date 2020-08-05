@@ -4,7 +4,10 @@ A static site generator written in Go.
 
 ## Dependencies
 
+* [Godotenv](https://github.com/joho/godotenv)
 * [Gin](https://github.com/gin-gonic/gin)
+* [static](https://github.com/gin-contrib/static)
+* [Blackfriday](https://github.com/russross/blackfriday)
 
 ## Use
 
