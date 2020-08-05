@@ -1,9 +1,6 @@
 # Environment variable file
 .env
 
-# Markdown holds the posts for the individual site
-markdown/
-
 # Binaries for programs and plugins
 *.exe
 *.exe~
